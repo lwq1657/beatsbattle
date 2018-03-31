@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redlion",
+    "texture": "772cdd80-cc4e-4add-9445-c7e27a0179f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      92
+    ]
+  }
+}

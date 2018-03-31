@@ -1,0 +1,88 @@
+2018-03-31T02:12:04.309Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-31T02:12:04.315Z - normal: checking language setting...
+2018-03-31T02:12:04.315Z - normal: Language: zh
+2018-03-31T02:12:05.519Z - success: protocol editor-framework registered
+2018-03-31T02:12:05.519Z - success: protocol app registered
+2018-03-31T02:12:05.519Z - success: protocol theme registered
+2018-03-31T02:12:05.519Z - success: protocol packages registered
+2018-03-31T02:12:05.520Z - success: protocol unpack registerred
+2018-03-31T02:12:05.520Z - success: protocol disable-commonjs registerred
+2018-03-31T02:12:05.631Z - normal: connected!
+2018-03-31T02:12:05.636Z - normal: Check project /Users/alien/beatsbattle
+2018-03-31T02:12:05.652Z - normal: Initializing Cocos2d
+2018-03-31T02:12:05.982Z - normal: Initializing Asset Database
+2018-03-31T02:12:06.031Z - success: protocol uuid registerred
+2018-03-31T02:12:06.032Z - success: protocol db registerred
+2018-03-31T02:12:06.032Z - success: protocol thumbnail registerred
+2018-03-31T02:12:06.032Z - normal: Loading editor/builtin packages
+2018-03-31T02:12:06.067Z - success: anysdk loaded
+2018-03-31T02:12:06.240Z - success: assets loaded
+2018-03-31T02:12:06.246Z - success: builder loaded
+2018-03-31T02:12:06.249Z - success: cocos-analytics loaded
+2018-03-31T02:12:06.257Z - success: console loaded
+2018-03-31T02:12:06.264Z - success: hierarchy loaded
+2018-03-31T02:12:06.271Z - success: inspector loaded
+2018-03-31T02:12:06.281Z - success: keystore loaded
+2018-03-31T02:12:06.287Z - success: node-library loaded
+2018-03-31T02:12:06.290Z - success: package-asset loaded
+2018-03-31T02:12:06.293Z - success: preferences loaded
+2018-03-31T02:12:06.298Z - success: project-exporter loaded
+2018-03-31T02:12:06.328Z - success: project-importer loaded
+2018-03-31T02:12:06.333Z - success: project-settings loaded
+2018-03-31T02:12:06.339Z - success: ui-kit loaded
+2018-03-31T02:12:06.347Z - success: ui-grid loaded
+2018-03-31T02:12:06.354Z - success: scene loaded
+2018-03-31T02:12:06.357Z - success: sprite-editor loaded
+2018-03-31T02:12:06.369Z - success: store loaded
+2018-03-31T02:12:06.378Z - success: timeline loaded
+2018-03-31T02:12:06.378Z - normal: Loading builtin packages
+2018-03-31T02:12:06.385Z - success: asset-db-debugger loaded
+2018-03-31T02:12:06.386Z - success: color-picker loaded
+2018-03-31T02:12:06.393Z - success: package-manager loaded
+2018-03-31T02:12:06.402Z - success: sdkbox loaded
+2018-03-31T02:12:06.410Z - success: tester loaded
+2018-03-31T02:12:06.418Z - success: ui-kit-preview-extra loaded
+2018-03-31T02:12:06.424Z - success: ui-kit-preview loaded
+2018-03-31T02:12:06.429Z - success: ui-tree loaded
+2018-03-31T02:12:07.921Z - normal: Initializing project /Users/alien/beatsbattle
+2018-03-31T02:12:07.924Z - normal: Loading packages
+2018-03-31T02:12:07.931Z - normal: Watching packages
+2018-03-31T02:12:07.947Z - normal: Run Application
+2018-03-31T02:12:08.721Z - success: preview server running at http://localhost:7456
+2018-03-31T02:12:17.149Z - normal: 1.8.2-rc.2
+2018-03-31T02:12:18.149Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T02:12:18.150Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T02:12:18.151Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T02:35:37.489Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T02:35:37.492Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T02:35:37.493Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T02:39:01.721Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T02:39:01.727Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T02:39:01.730Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T02:42:26.624Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T02:42:26.629Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T02:42:26.630Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:05:23.424Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:05:23.476Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:05:23.532Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:16:38.857Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:16:38.863Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:16:38.864Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:17:47.528Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:17:47.529Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:17:47.530Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:18:45.987Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:18:45.989Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:18:45.990Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:19:57.339Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:19:57.342Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:19:57.342Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:23:39.379Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:23:39.424Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:23:39.425Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T03:24:56.414Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T03:24:56.415Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T03:24:56.416Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script
+2018-03-31T06:05:04.866Z - warn: The 'type' attribute of 'game.bPantherSF' is undefined when loading script
+2018-03-31T06:05:04.869Z - warn: The 'type' attribute of 'game.rPantherSF' is undefined when loading script
+2018-03-31T06:05:04.870Z - warn: The 'type' attribute of 'game.rjumboSF' is undefined when loading script

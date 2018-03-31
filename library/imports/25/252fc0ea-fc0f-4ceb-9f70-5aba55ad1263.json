@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redmouse",
+    "texture": "b5a15271-a5e5-4688-882f-4caaf492a479",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      88
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redwolf",
+    "texture": "16375a71-604e-421b-a365-f4f1834518bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      91
+    ]
+  }
+}

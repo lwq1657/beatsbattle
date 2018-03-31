@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pieceback",
+    "texture": "a2cb298d-1c4f-4740-a828-44cd97a4d410",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      88
+    ]
+  }
+}

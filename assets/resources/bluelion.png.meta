@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bfeaeb03-ce8c-40c4-ae08-dc1ca8d5176c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bluelion": {
+      "ver": "1.0.3",
+      "uuid": "be742eae-cb8f-4551-9876-32d99565eb64",
+      "rawTextureUuid": "bfeaeb03-ce8c-40c4-ae08-dc1ca8d5176c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 91,
+      "rawWidth": 79,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

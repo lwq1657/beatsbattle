@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluecat",
+    "texture": "29b4f75b-f1aa-4490-819e-ad893201902d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      87
+    ]
+  }
+}

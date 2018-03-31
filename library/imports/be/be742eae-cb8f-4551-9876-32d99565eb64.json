@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluelion",
+    "texture": "bfeaeb03-ce8c-40c4-ae08-dc1ca8d5176c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      91
+    ]
+  }
+}

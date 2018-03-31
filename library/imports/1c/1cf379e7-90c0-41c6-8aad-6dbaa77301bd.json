@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluemouse",
+    "texture": "8e50ea80-231c-4b74-9188-9d864cd754bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      86
+    ]
+  }
+}

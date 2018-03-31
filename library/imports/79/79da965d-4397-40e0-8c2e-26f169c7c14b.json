@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluewolf",
+    "texture": "ccf74aca-4f4b-4342-9476-6a163733852e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      92
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redtiger",
+    "texture": "4611a9d2-fea2-47ac-9538-a0a8bbd9c964",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      94
+    ]
+  }
+}

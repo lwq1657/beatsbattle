@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redcat",
+    "texture": "5bd346b6-476c-4665-a2ca-1ea3c543a34e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      90
+    ]
+  }
+}

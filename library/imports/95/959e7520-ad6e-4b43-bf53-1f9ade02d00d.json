@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluepanther",
+    "texture": "e3f81d7a-fcbc-4642-9e1e-245fb1c467c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      91
+    ]
+  }
+}

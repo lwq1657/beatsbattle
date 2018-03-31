@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluetiger",
+    "texture": "092e3801-c333-4677-82f7-a9eabe2bcd48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      91
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redjumbo",
+    "texture": "0e02c298-3aca-4af1-ba22-8db7945578d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      91
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reddog",
+    "texture": "1ddbdd84-29a6-44ad-9ee7-1b5f1dc89a01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      89
+    ]
+  }
+}

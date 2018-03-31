@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "piecebg",
+    "texture": "993bb278-e636-4e37-bee8-214520dcf4be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      740,
+      1330
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      740,
+      1330
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redpanther",
+    "texture": "6abf51d4-ec25-41d4-8efb-83527c6b0bb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      87
+    ]
+  }
+}
